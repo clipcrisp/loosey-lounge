@@ -1,0 +1,3 @@
+[
+{ "directory": "/Users/corystewart/Desktop/raygame", "file": "main.c", "output": "/var/folders/zw/z7bx16zs2h19n6syzmqvszy80000gn/T/main-df8e19.o", "arguments": ["/opt/homebrew/Cellar/llvm/19.1.6/bin/clang-19", "-xc", "main.c", "-o", "/var/folders/zw/z7bx16zs2h19n6syzmqvszy80000gn/T/main-df8e19.o", "-isysroot", "/Library/Developer/CommandLineTools/SDKs/MacOSX15.sdk", "-L/opt/homebrew/lib/", "-I", "/opt/homebrew/include/", "-std=c23", "-Wall", "-lm", "-lraylib", "-mlinker-version=1115.7.3", "-dumpdir", "test-", "-mmacos-version-min=15", "--target=arm64-apple-macosx15.0.0"]}
+]
